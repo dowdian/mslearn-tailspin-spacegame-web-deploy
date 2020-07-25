@@ -1,6 +1,6 @@
 body {
   color: black;
-  --link: #064EC0; }
+  --link: #0645aa; }
 
 a {
   color: var(--link); }
